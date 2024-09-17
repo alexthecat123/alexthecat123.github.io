@@ -1,0 +1,40 @@
+body {
+    background: #3b4041;
+    font-family:"Arial", Times, serif;
+    margin: 20px;
+    font-weight: lighter;
+}
+
+h1 {
+    text-align: center;
+    font-weight: lighter;
+    font-family:"Arial", Times, serif;
+    color: #6f7bfc;
+}
+
+h2 {
+    color:#38C696;
+    font-family:"Arial", Times, serif;
+    font-weight: lighter;
+}
+
+h3 {
+    color:#38C696;
+    font-family:"Arial", Times, serif;
+    font-weight: lighter;
+}
+
+.project {
+    background:#6f7bfc;
+    border-radius: 25px;
+    color:#38C696;
+    font-family:"Arial", Times, serif;
+}
+
+#indent {
+    margin: 25px
+}
+
+a:link {
+    color: #38C696;
+}
