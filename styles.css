@@ -29,6 +29,9 @@ h3 {
     border-radius: 25px;
     color:#38C696;
     font-family:"Arial", Times, serif;
+    max-width: 40%;
+    max-height: auto;
+    text-shadow: 1px 1px 10px #000000;
 }
 
 #indent {
@@ -37,4 +40,10 @@ h3 {
 
 a:link {
     color: #38C696;
+    text-decoration: none;
+}
+
+img {
+    max-width: 93%;
+    max-height: auto;
 }
